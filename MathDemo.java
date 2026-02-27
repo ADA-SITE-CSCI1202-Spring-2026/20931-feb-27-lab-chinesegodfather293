@@ -31,6 +31,7 @@ public class MathDemo{
         }
         return total;
     }
+    //f) we can call methods without creating an object of the class first
     public static void main(String[] args){
         int a = 5;
         int b = 10;
